@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Web developer and ML enthusiast.</h3>
 
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Deep Learning, NLP**
 
-- 💬 Ask me about **Java, Web dev, Sql**
+- 💬 Ask me about **Java, Web dev, Sql, Machine learning**
 
 - 📫 How to reach me **shubhamss0730@gmail.com**
 
