@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shubham Shinde</h1>
-<h3 align="center">A passionate Web developer and ML enthusiast.</h3>
+<h3 align="center">A Full Stack Developer and ML enthusiast.</h3>
 
 
 - 🌱 I’m currently learning **Deep Learning, NLP**
 
-- 💬 Ask me about **Java, Web dev, Sql, Machine learning**
+- 💬 Ask me about **Java, Spring Boot, Angular, React JS, Sql, Machine learning**
 
 - 📫 How to reach me **shubhamss0730@gmail.com**
 
-- ⚡ Fun fact **When I was young, I wanted to be an astronaut**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
