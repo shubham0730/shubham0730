@@ -1,26 +1,224 @@
 <h1 align="center">Hi 👋, I'm Shubham Shinde</h1>
-<h3 align="center">A Full Stack Developer and ML enthusiast.</h3>
 
+<h3 align="center">
+Backend Engineer | Full Stack Developer | Cloud & AI Systems Enthusiast
+</h3>
 
-- 🌱 I’m currently learning **Deep Learning, NLP**
-
-- 💬 Ask me about **Java, Spring Boot, Angular, React JS, Sql, Machine learning**
-
-- 📫 How to reach me **shubhamss0730@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shubhamss0730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamss0730" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubham-shinde-2797141b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-shinde-2797141b8" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shubhamss0730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamss0730" height="30" width="40" /></a>
+<p align="center">
+Building scalable backend systems, cloud-native applications, and intelligent software powered by modern AI.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham0730&show_icons=true&locale=en&layout=compact" alt="shubham0730" /></p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham0730&show_icons=true&locale=en" alt="shubham0730" /></p>
+I am a Software Engineer passionate about designing scalable applications, solving complex engineering problems, and building impactful software solutions.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham0730&" alt="shubham0730" /></p>
+My interests revolve around:
+
+- Backend System Design
+- Distributed Applications
+- Cloud Native Development
+- Data Engineering
+- AI Powered Software Development
+
+I enjoy working at the intersection of software engineering and modern AI, creating applications that are efficient, reliable, and scalable.
+
+---
+
+## Currently Exploring
+
+- Advanced Java & Spring Boot Architecture
+- System Design & Distributed Systems
+- Cloud Native Application Development
+- Generative AI Applications
+- LLM Integrations, RAG Systems & AI Agents
+- Data Structures & Algorithms
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" />
+</p>
+
+- Java
+- Python
+- JavaScript
+- TypeScript
+- SQL
+
+---
+
+## Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask" />
+</p>
+
+- Spring Boot
+- Spring Security
+- REST API Development
+- Microservices
+- Hibernate / JPA
+- Authentication & Authorization
+- API Design
+
+---
+
+## Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap" />
+</p>
+
+- Angular
+- React
+- Responsive UI Development
+- Modern Web Applications
+
+---
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+- MySQL
+- PostgreSQL
+- MongoDB
+- Query Optimization
+
+---
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+</p>
+
+- AWS Services
+- Docker
+- Linux
+- CI/CD
+- Version Control
+
+---
+
+## AI Engineering
+
+Building intelligent applications using:
+
+- Large Language Models (LLMs)
+- Retrieval Augmented Generation (RAG)
+- AI Agents
+- Vector Databases
+- Embeddings
+- Prompt Engineering
+- AI Application Development
+
+---
+
+# Featured Projects
+
+## FinSight AI
+
+AI powered personal finance assistant designed to provide intelligent financial insights.
+
+**Tech Stack**
+
+`React` `Node.js` `PostgreSQL` `LLMs` `RAG`
+
+Features:
+
+- AI based financial assistant
+- Natural language interaction
+- Transaction analysis
+- Personalized insights
+
+---
+
+## Journal Management System
+
+A full stack platform for managing digital journal publication workflows.
+
+**Tech Stack**
+
+`Angular` `Spring Boot` `MySQL` `JWT`
+
+Features:
+
+- Secure authentication
+- Role based access control
+- Manuscript management
+- Reviewer workflow
+
+---
+
+## AI Application Projects
+
+Exploring practical applications of modern AI.
+
+Areas:
+
+- LLM powered applications
+- Retrieval based systems
+- Intelligent automation
+- AI enhanced user experiences
+
+---
+
+# Problem Solving
+
+Continuously improving algorithmic thinking through:
+
+- Data Structures & Algorithms
+- Competitive Programming
+- System Design Concepts
+
+Solved 135+ problems on LeetCode.
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubham0730&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham0730&theme=tokyonight" />
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0730&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:shubhamss0730@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+Building. Learning. Improving.
+</p>
